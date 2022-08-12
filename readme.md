@@ -1,8 +1,8 @@
 # Tailwind Manage Landing Page
 
-This project was made following this tutorial: <a href="https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia">Click Here</a>
+This project was made following this tutorial: <a href="https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia" target="_blank">Click Here</a>
 
-![Alt text](/img/screen.png?raw=true)
+![Image](https://user-images.githubusercontent.com/61896414/184390856-fd8db606-186c-4565-b3fb-7f2277daef10.png)
 
 # Usage
 
