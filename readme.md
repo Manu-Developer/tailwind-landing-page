@@ -2,7 +2,7 @@
 
 This project was made following this tutorial: <a href="https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia" target="_blank">Click Here</a>
 
-![Image](https://user-images.githubusercontent.com/61896414/184390856-fd8db606-186c-4565-b3fb-7f2277daef10.png)
+![Image](https://user-images.githubusercontent.com/61896414/184391558-14643188-521c-4dd8-98e9-80633a46ab99.png)
 
 # Usage
 
